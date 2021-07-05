@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\izumi\Desktop\java co ban\.metadata\.plugins\org.eclipse.jdt.core
+1955850445.index
+3151851751.index
